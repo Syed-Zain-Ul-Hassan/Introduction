@@ -7,7 +7,7 @@ Zain is a Cloud & DevOps Support engineer, Azure & AWS Certified, Microsoft Cert
 - Woring with multiple US-Based projects supporting AWS Cloud and other DevOps Tools
 - Let's connect on my mobile number +00-92324-4045214 or email: syedzhsn@outlook.com
 
-## Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/220px-Microsoft_Azure.svg.png" alt="Azure" height="60" style="vertical-align:top; margin:4px">
