@@ -21,7 +21,7 @@ Zain is a Cloud & DevOps Support engineer, Azure & AWS Certified, Microsoft Cert
 
 <p align="center">
 <a href="https://zainulhassan.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.zainulhassan.net-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/syed-zain-ul-hassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@syed-zain-ul-hassan-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/zain~ul~hassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@zain~ul~hassan-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/ZainUlHassan_" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/ZainUlHassan_?style=social"></a>
 <a href="mailto:syedzhsn@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedzhsn@outlook.com-blue?style=flat&logo=gmail"></a>
 </p>
