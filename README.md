@@ -20,10 +20,10 @@ Zain is a Cloud & DevOps Support engineer, Azure & AWS Certified, Microsoft Cert
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://zainulhassan.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.michaellevan.net-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/syed-zain-ul-hassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@michaellevan-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/ZainUlHassan_" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/thenjdevopsguy?style=social"></a>
-<a href="mailto:syedzhsn@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-michael.levan@clouddev.engineering-blue?style=flat&logo=gmail"></a>
+<a href="https://zainulhassan.net" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.zainulhassan.net-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/syed-zain-ul-hassan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@syed-zain-ul-hassan-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/ZainUlHassan_" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/twitter/follow/ZainUlHassan_?style=social"></a>
+<a href="mailto:syedzhsn@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedzhsn@outlook.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
