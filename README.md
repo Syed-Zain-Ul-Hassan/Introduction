@@ -5,7 +5,7 @@ Zain is a Cloud & DevOps Support engineer, Azure & AWS Certified, Microsoft Cert
 
 - I'm currently working in Systems Limited a giant IT company in Lahore, Pakistan as a Cloud & DevOps Support Engineer
 - Woring with multiple US-Based projects supporting AWS Cloud and other DevOps Tools
-- Let's connect on my mobile number +00-92324-4045214 or email: syedzhsn@outlook.com
+- Let's connect on my email: syedzhsn@outlook.com
 
 ## 🧰 Languages and Tools:
 <p align="center">
